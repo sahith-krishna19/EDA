@@ -1,4 +1,4 @@
-**NAME: ** G.SAHITH KRISHNA ( 21BDS0078 )
+# NAME: G.SAHITH KRISHNA ( 21BDS0078 )
 # Exploratory Data Analysis (EDA) on PhD Publications Dataset
 
 ## Project Overview
