@@ -1,4 +1,4 @@
-readme_content = """
+**NAME: ** G.SAHITH KRISHNA ( 21BDS0078 )
 # Exploratory Data Analysis (EDA) on PhD Publications Dataset
 
 ## Project Overview
@@ -41,4 +41,4 @@ Concludes with model-building activities, including linear regression and reinfo
 This EDA journey offers a structured approach to understanding and analyzing the PhD Publications dataset, following data science principles and course guidelines. Each module builds on the previous, providing a thorough grounding in data analysis, visualization, and model evaluation techniques.
 
 Happy analyzing!
-"""
+
